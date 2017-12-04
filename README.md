@@ -1,0 +1,1 @@
+# codenginter3-smarty
